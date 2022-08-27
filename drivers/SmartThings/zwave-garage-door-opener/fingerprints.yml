@@ -10,10 +10,6 @@ zwaveManufacturer:
     manufacturerId: 0x014F
     productType: 0x4744
     productId: 0x3530
-    deviceLabel: GoControl Garage Door
-    manufacturerId: 0x014F
-    productType: 0x4744
-    productId: 0x3531
     deviceProfileName: base-garage-door
   - id: "mimolite/garage"
     deviceLabel: MimoLite Garage Door Controller
